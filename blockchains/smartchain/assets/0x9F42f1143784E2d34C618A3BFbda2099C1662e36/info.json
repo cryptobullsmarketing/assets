@@ -1,0 +1,11 @@
+{
+    "name": "CryptoBulls Token",
+    "website": "https://cryptobullsmarketing.com/",
+    "description": "CryptoBulls is a marketing token which brings the world best budding real projects to the market",
+    "explorer": "https://bscscan.com/token/0x9F42f1143784E2d34C618A3BFbda2099C1662e36",
+    "type": "BEP20",
+    "symbol": "CBT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9F42f1143784E2d34C618A3BFbda2099C1662e36"
+}
